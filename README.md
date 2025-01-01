@@ -1,5 +1,7 @@
 # Welcome to My Portfolio! 👋
 
+![Screenshot 2025-01-02 020851](https://github.com/user-attachments/assets/892e40fc-0199-41c4-bfca-972637d36a64)
+
 Hi there! I'm Garvit Banthiya, a software developer with a passion for solving problems, creating seamless user experiences, and continuously learning. This portfolio highlights my journey, my projects, and my love for building meaningful applications.
 
 ## 🚀 Who Am I?
